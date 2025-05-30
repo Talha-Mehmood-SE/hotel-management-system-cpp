@@ -5,6 +5,7 @@ A hotel management system built in C++ using OOP.
 This project is a simple Hotel Management System coded in C++. It is designed to help manage hotel rooms, bookings, and user accounts. The system consists of two types of users: Admin and Customer. Admins can manage rooms (add, update, delete), while Customers can sign up, log in, view rooms, book rooms, and cancel bookings.
 
 **2. Objectives:**
+
 -The objective of this project is to design and implement a real-world Hotel     Management System using Object-Oriented Programming in C++.
 - Support admin and customer functionalities.
 - Allows data to be stored by the software in between iterations.
