@@ -1,4 +1,4 @@
-# hotel-management-system-cpp
+# HOTEL-MANAGEMENT-SYSTEM-CPP
 A hotel management system built in C++ using OOP.
 
 **1. Introduction:**
